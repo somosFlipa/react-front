@@ -1,0 +1,13 @@
+.header{
+    height: 15vh;
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.search{
+    /* padding-left: 100px; */
+
+}

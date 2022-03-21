@@ -1,0 +1,12 @@
+.home{
+    display: flex;
+    justify-content: space-around;
+}
+
+.plannet button{
+    padding: 100px;
+}
+
+.abm button{
+    padding: 100px;
+}

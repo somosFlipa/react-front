@@ -1,0 +1,13 @@
+.table{
+    
+}
+
+.tablePlatos{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.btn{
+    float: right;
+}

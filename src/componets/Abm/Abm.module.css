@@ -1,0 +1,25 @@
+.abm{
+    display: flex;
+    margin: 50px;
+    margin-left: 200px;
+    margin-right: 300px;
+    background-color: aqua;
+}
+
+.cards{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 150px;
+    height: 100px;
+    background-color: blanchedalmond;
+    margin: 10px;
+    text-align: center;
+    
+}
+.btnCard{
+    margin-top: 40px;
+}
